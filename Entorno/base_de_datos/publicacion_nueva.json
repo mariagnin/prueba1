@@ -1,0 +1,125 @@
+{
+    "product": {
+    "sku": "DIMAS-ABCD",
+    "name": "Vino aba",
+    "attribute_set_id": 4,
+    "price": 2000,
+    "status": 1,
+    "visibility": 4,
+    "type_id": "simple",
+    "weight": "5.0",
+    "extension_attributes": {
+        "website_ids": [
+            1
+        ],
+        "category_links": [
+            {
+                "position": 1,
+                "category_id": "24"
+            },
+            {
+                "position": 0,
+                "category_id": "73"
+            },
+            {
+                "position": 0,
+                "category_id": "68"
+            },
+            {
+                "position": 0,
+                "category_id": "77"
+            }
+        ],
+        "stock_item": {
+            "qty": "60",
+            "is_in_stock": true
+        }
+    },
+    "custom_attributes": [
+        {
+            "attribute_code": "description",
+            "value": "Vinos artesanales de gran calidad."
+        },
+        {
+            "attribute_code": "gift_message_available",
+            "value": "0"
+        },
+        {
+            "attribute_code": "destacado_rotativo",
+            "value": "0"
+        },
+        {
+            "attribute_code": "meta_title",
+            "value": "Agua Virgen Gasificada"
+        },
+        {
+            "attribute_code": "options_container",
+            "value": "container1"
+        },
+        {
+            "attribute_code": "meta_keyword",
+            "value": "calidad, vino, artesanal, calidad"
+        },
+        {
+            "attribute_code": "meta_description",
+            "value": "Vinos de gran calidad."
+        },
+        {
+            "attribute_code": "tax_class_id",
+            "value": "0"
+        },
+        {
+            "attribute_code": "msrp_display_actual_price_type",
+            "value": "0"
+        },
+        {
+            "attribute_code": "mw_delivery_time_enabled",
+            "value": "1"
+        },
+        {
+            "attribute_code": "mw_delivery_time_visible",
+            "value": "0"
+        },
+        {
+            "attribute_code": "tipo",
+            "value": "201"
+        },
+        {
+            "attribute_code": "marca",
+            "value": "90"
+        },
+        {
+            "attribute_code": "origen",
+            "value": "38"
+        },
+        {
+            "attribute_code": "categoria",
+            "value": "103"
+        },
+        {
+            "attribute_code": "capacidad",
+            "value": "117"
+        },
+        {
+            "attribute_code": "presentacion",
+            "value": "146"
+        },
+        {
+            "attribute_code": "sw_featured",
+            "value": "1"
+        },
+        {
+            "attribute_code": "product_page_type",
+            "value": "default"
+        },
+        {
+            "attribute_code": "product_image_size",
+            "value": "0"
+        },
+        {
+            "attribute_code": "atributo_especial",
+            "value": "163"
+        }
+    ]
+  }
+    }

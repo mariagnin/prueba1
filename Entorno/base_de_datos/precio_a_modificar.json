@@ -1,0 +1,10 @@
+{
+  "prices": [
+    {
+      "price": 3000,
+      "store_id": 0,
+      "sku": "11698",
+      "extension_attributes": {}
+    }
+  ]
+}
